@@ -1,0 +1,129 @@
+{
+  "title": "Meereen",
+  "who": [
+    {
+      "id": 1,
+      "text": "Daenerys Targaryen",
+      "isFree": false,
+      "hasCard": false
+    },
+    {
+      "id": 2,
+      "text": "Hizdahr zo Loraq",
+      "isFree": false,
+      "hasCard": false
+    },
+    {
+      "id": 3,
+      "text": "Jorah Mormont",
+      "isFree": false,
+      "hasCard": false
+    },
+    {
+      "id": 4,
+      "text": "Grey Worm",
+      "isFree": false,
+      "hasCard": false
+    },
+    {
+      "id": 5,
+      "text": "Missandei",
+      "isFree": false,
+      "hasCard": false
+    },
+    {
+      "id": 6,
+      "text": "Daario Naharis",
+      "isFree": false,
+      "hasCard": false
+    }
+  ],
+  "where":[
+    {
+      "id": 7,
+      "text": "Burdel",
+      "isFree": false,
+      "hasCard": false
+    },
+    {
+      "id": 8,
+      "text": "Pirámide de los Grandes Amos",
+      "isFree": false,
+      "hasCard": false
+    },
+    {
+      "id": 9,
+      "text": "Templo de las Gracias",
+      "isFree": false,
+      "hasCard": false
+    },
+    {
+      "id": 10,
+      "text": "Catacumbas de los Dragones",
+      "isFree": false,
+      "hasCard": false
+    },
+    {
+      "id": 11,
+      "text": "Túneles",
+      "isFree": false,
+      "hasCard": false
+    },
+    {
+      "id": 12,
+      "text": "Gran Bazar",
+      "isFree": false,
+      "hasCard": false
+    },
+    {
+      "id": 13,
+      "text": "Las Puertas de la Ciudad",
+      "isFree": false,
+      "hasCard": false
+    },
+    {
+      "id": 14,
+      "text": "Fosa de Daznak",
+      "isFree": false,
+      "hasCard": false
+    }
+  ],
+  "what": [
+    {
+      "id": 15,
+      "text": "Frasco de Veneno",
+      "isFree": false,
+      "hasCard": false
+    },
+    {
+      "id": 16,
+      "text": "Hacha de Guerra",
+      "isFree": false,
+      "hasCard": false
+    },
+    {
+      "id": 17,
+      "text": "Arakh",
+      "isFree": false,
+      "hasCard": false
+    },
+    {
+      "id": 18,
+      "text": "Hombre Sin Rostro",
+      "isFree": false,
+      "hasCard": false
+    },
+    {
+      "id": 19,
+      "text": "Ballesta",
+      "isFree": false,
+      "hasCard": false
+    },
+    {
+      "id": 20,
+      "text": "Daga del Sicario Asesino",
+      "isFree": false,
+      "hasCard": false
+    }
+  ]
+}
